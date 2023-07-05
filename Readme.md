@@ -5,23 +5,27 @@ This retrieval-based approach is particularly useful when we want to ask questio
 ![oveview.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/overview.jpeg)
 
 
-#Document Loading
+# Document Loading
 
 ![Loading.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/step1.jpeg)
 
-#Document Splitting
+
+# Document Splitting
 
 ![Splitting.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/step2.jpeg)
 
-#Vector DataStore
+
+# Vector DataStore
 
 ![Vector.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/step3.jpeg)
 
 
-#Retrival
-
+# Retrival
+ 
 ![QnA.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/step4.jpeg)
 
-#Questions And Answer
+
+# Questions And Answer
 
 ![QnA.jpeg](https://github.com/kishorerv93/langchain-qna/blob/main/data/step5.jpeg)
+
